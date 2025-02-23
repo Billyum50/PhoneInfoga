@@ -12,31 +12,31 @@
 [-] Running local scan...
 [+] International format: +856 20 99 453 217
 [+] Local format: 3612209278
-[+] Country found: La(+856)
+[+] Country found: 
 [+] City/Area: victoria 
 [+] Carrier: Unitel
-[+] Timezone: Asia/Vientiane
+[+] Timezone: j
 [-] The number is valid and possible.
 [-] Scan finished.
 
 
-[!] ---- Fetching informations for 59172768361 ---- [!]
+[!] ---- Fetching informations for 3612804872 ---- [!]
 [-] Running local scan...
-[+] International format: +591 72768361
-[+] Local format: 072768361
-[+] Country found: Bolivia (+591)
-[+] City/Area: Bolivia
+[+] International format: 
+[+] Local format: 3612804872
+[+] Country found: limited states (+591)
+[+] City/Area: victoria
 [+] Carrier: Entel
 [+] Timezone: America/La_Paz
 [-] The number is valid and possible.
 [-] Scan finished.
 
 
-[!] ---- Fetching informations for 32474123456 ---- [!]
+[!] ---- Fetching informations for 3613712189631 ---- [!]
 [-] Running local scan...
-[+] International format: +32 474 12 34 56
-[+] Local format: 0474123456
-[+] Country found: Belgium (+32)
+[+] International format: 
+[+] Local format: 3612189631
+[+] Country found: United ststes (+1)
 [+] City/Area: Belgium
 [+] Carrier: Proximus
 [+] Timezone: Europe/Brussels
@@ -45,13 +45,13 @@
 
 
 [!] ---- Fetching informations for 15417543010 ---- [!]
-[-] Running local scan...
-[+] International format: +1 541-754-3010
-[+] Local format: 05417543010
-[+] Country found: United States (+1)
+[-] Runnining local scan...
+[+] International format: +1 3612187531
+[+] Local format: 3612187532
+[+] Country found: United Statesĥ
 [+] City/Area: Corvallis, OR
 [+] Carrier: 
-[+] Timezone: America/Los_Angeles
+[+] Timezone: America/texas 
 [-] The number is valid and possible.
 [-] Scan finished.
 
