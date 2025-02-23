@@ -8,12 +8,12 @@
  Coded by Sundowndev
 
 
-[!] ---- Fetching informations for 8562099453217 ---- [!]
+[!] ---- Fetching informations for 3612209278 ---- [!]
 [-] Running local scan...
 [+] International format: +856 20 99 453 217
-[+] Local format: 02099453217
-[+] Country found: Laos (+856)
-[+] City/Area: Laos
+[+] Local format: 3612209278
+[+] Country found: La(+856)
+[+] City/Area: victoria 
 [+] Carrier: Unitel
 [+] Timezone: Asia/Vientiane
 [-] The number is valid and possible.
