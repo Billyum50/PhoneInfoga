@@ -58,7 +58,7 @@ python3 -m pip install -r requirements.txt
 ### [The full usage documentation has been moved to the wiki](https://github.com/sundowndev/PhoneInfoga/wiki)
 
 ```
-usage: phoneinfoga.py -n <number> [options]
+usage: phoneinfoga.py -n <+1(361) 220 9278> [full]
 
 Advanced information gathering tool for phone numbers
 (https://github.com/sundowndev/PhoneInfoga)
