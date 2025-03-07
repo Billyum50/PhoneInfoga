@@ -1,6 +1,6 @@
 <h1 align="center">PhoneInfoga</h1>+1361 220 9378
 
-<div align="center">
+<div aloʻoo center">
   <a href="https://travis-ci.org/sundowndev/PhoneInfoga">
     <img src="https://img.shields.io/travis/sundowndev/PhoneInfoga/master.svg?style=flat-square" alt="Build Status" />
   </a>
